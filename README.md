@@ -17,7 +17,7 @@ Getting Started:
 Build and Run:
 To build and run the project locally, follow these steps:
 
-Clone this repository: git clone https://github.com/your-username/VersaScale.git
+Clone this repository: git clone https://github.com/aaranayaadi/VersaScale.git
 Open the project in Android Studio.
 Build and run the app on an Android emulator or device.
 
